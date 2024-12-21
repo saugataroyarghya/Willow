@@ -1,0 +1,96 @@
+{
+  "recipes": [
+    {
+      "name": "Spaghetti Carbonara",
+      "taste": "Savory",
+      "reviews": 4.8,
+      "cuisine_type": "Italian",
+      "preparation_time": "30 minutes",
+      "ingredients": [
+        {"item": "Spaghetti", "amount": 200},
+        {"item": "Eggs", "amount": 2},
+        {"item": "Parmesan cheese", "amount": 50},
+        {"item": "Pancetta", "amount": 100},
+        {"item": "Black pepper", "amount": 1}
+      ]
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "taste": "Spicy",
+      "reviews": 4.7,
+      "cuisine_type": "Indian",
+      "preparation_time": "45 minutes",
+      "ingredients": [
+        {"item": "Chicken", "amount": 500},
+        {"item": "Yogurt", "amount": 150},
+        {"item": "Tomatoes", "amount": 3},
+        {"item": "Onion", "amount": 1},
+        {"item": "Spices", "amount": 1}
+      ]
+    },
+    {
+      "name": "Sushi Platter",
+      "taste": "Umami",
+      "reviews": 4.9,
+      "cuisine_type": "Japanese",
+      "preparation_time": "50 minutes",
+      "ingredients": [
+        {"item": "Sushi rice", "amount": 300},
+        {"item": "Nori sheets", "amount": 5},
+        {"item": "Fish", "amount": 200},
+        {"item": "Soy sauce", "amount": 1},
+        {"item": "Wasabi", "amount": 1}
+      ]
+    },
+    {
+      "name": "Tacos Al Pastor",
+      "taste": "Tangy and Spicy",
+      "reviews": 4.6,
+      "cuisine_type": "Mexican",
+      "preparation_time": "35 minutes",
+      "ingredients": [
+        {"item": "Pork", "amount": 500},
+        {"item": "Pineapple", "amount": 1},
+        {"item": "Corn tortillas", "amount": 8},
+        {"item": "Onion", "amount": 1},
+        {"item": "Cilantro", "amount": 1}
+      ]
+    },
+    {
+      "name": "Beef Stroganoff",
+      "taste": "Creamy and Savory",
+      "reviews": 4.5,
+      "cuisine_type": "Russian",
+      "preparation_time": "40 minutes",
+      "ingredients": [
+        {"item": "Beef", "amount": 400},
+        {"item": "Mushrooms", "amount": 150},
+        {"item": "Sour cream", "amount": 100},
+        {"item": "Onion", "amount": 1},
+        {"item": "Butter", "amount": 2}
+      ]
+    }
+  ],
+  "images": [
+    {
+      "recipe_name": "Spaghetti Carbonara",
+      "location": "images/spaghetti.jpg"
+    },
+    {
+      "recipe_name": "Chicken Tikka Masala",
+      "location": "images/tikka_masala.jpg"
+    },
+    {
+      "recipe_name": "Sushi Platter",
+      "location": "images/sushi.jpg"
+    },
+    {
+      "recipe_name": "Tacos Al Pastor",
+      "location": "images/tacos.jpg"
+    },
+    {
+      "recipe_name": "Beef Stroganoff",
+      "location": "images/stroganoff.jpg"
+    }
+  ]
+}
